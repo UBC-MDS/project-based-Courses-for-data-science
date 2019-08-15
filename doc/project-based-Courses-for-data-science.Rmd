@@ -1,6 +1,6 @@
 ---
-layout: post
 title: Teaching Data Science using project-based courses in the UBC Master of Data Science program
+output: github_document
 ---
 
 ## Introduction
@@ -93,3 +93,5 @@ A future directions that we plan to explore for our project based course in the 
 ## Conclusion
 
 From our experience with the University of British Columbia's Master of Data Science program we have come to the opinion that project-based courses are necessary for a well-rounded Data Science education. We believe this is because it gives the students to work in a more real-life situation where the "right" answer is less well defined, collaboration is required and many axes of Data Science are brought together. We also believe that students should have the opportunity to do more than 1 project in their Data Science program so that they get to repeatedly practice an entire project from beginning to end in a lower stakes environment before they are required to do so on the job. 
+
+## References
